@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://github.com/gazishahi/Instagram/blob/master/ParstagramVideoPart1.gif?raw=true" width="250px">
+<img src="https://github.com/gazishahi/Instagram/blob/main/ParstagramVideoPart1.gif?raw=true" width="250px">
